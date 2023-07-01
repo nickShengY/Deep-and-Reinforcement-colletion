@@ -6,13 +6,13 @@
 
 ## Real-time Face/ Object Detection   
 [Live Face or Object Detection](https://github.com/nickShengY/face-object-detection)    
-![Face detection](./demo/1.png)
+![Face detection](./demos/1.png)
 ## Real-time hand gesture detection with LSTM    
 [Hand Gesture](https://github.com/nickShengY/action-gesture-detection-lstm)    
-![Gesture](./demo/hello.png)      
+![Gesture](./demos/hello.png)      
 ## Emotion Classification with deep learning    
 [Emotion Classification](https://github.com/nickShengY/deep-emotion)  
-![Emotion](./demo/happygroup.jpg)
+![Emotion](./demos/happygroup.jpg)
 ## Image classification with CIFAR10 dataset   
 [Image Classification](https://github.com/nickShengY/CIfar10)
 ## Option Pricing with DDPG   
